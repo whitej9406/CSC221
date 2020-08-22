@@ -1,1 +1,2 @@
-# CSC221
+# CSC 221
+# Jacob White
